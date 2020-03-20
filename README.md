@@ -48,3 +48,10 @@ views
 components
     All the components of the projects that are not the main views
 ```
+
+### test
+
+```
+to run the example spec file use
+ npm run test:unit
+```
